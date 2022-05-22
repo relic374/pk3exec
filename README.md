@@ -31,7 +31,7 @@ NOTE: THE ECWOLF PATH HAS TO COME BEFORE THE LZWOLF PATH<br>
 
 <hr>
 
-feel free to contact me for help or issues!<br>
+feel free to contact me<br>
 Thanks,<br>
 Relic374<br>
 
