@@ -20,7 +20,7 @@ NOTE: THE ECWOLF PATH HAS TO COME BEFORE THE LZWOLF PATH<br>
 
 <hr>
 <strong>Running</strong><br>
-./pk3exec -l/-e path_to_pk3<br>
+./pk3exec -l/-e/-h path_to_pk3<br>
 
 <hr>
 <strong>Arguments</strong>
