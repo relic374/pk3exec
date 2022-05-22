@@ -16,9 +16,10 @@ Look at the file for a better demonstration<br>
 If you don't want the ecwolf path to be recognised, replace it with "NULL"<br>
 If you don't want the lzwolf path to be there, just delete it<br>
 DO NOT MOVE THE ';'!<br>
+NOTE: THE ECWOLF PATH HAS TO COME BEFORE THE LZWOLF PATH<br>
 
 <hr>
-<strong>Running</strong>
+<strong>Running</strong><br>
 ./pk3exec -l/-e path_to_pk3<br>
 
 <hr>
@@ -33,6 +34,4 @@ DO NOT MOVE THE ';'!<br>
 feel free to contact me for help or issues!<br>
 Thanks,<br>
 Relic374<br>
-
-[test]
 
